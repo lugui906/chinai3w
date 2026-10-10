@@ -6,7 +6,7 @@
 `index.html` 内联全部样式与脚本、图标以 base64 内嵌，不依赖任何外部资源。
 
 - 在线访问：<https://lugui906.github.io/chinai3w/>
-- 下载：见 [Releases](https://github.com/lugui906/chinai3w/releases)
+- 下载：<https://yun.139.com/shareweb/#/w/i/2ygbaWBcT140h>（中国移动云盘，无提取码）
 
 ## 它能帮你做什么
 
@@ -32,13 +32,13 @@
 
 ## 安装（Windows 10 / 11 · 64 位）
 
-1. 下载 `chinai3-1.0.0-x64.msi`，双击按提示安装（**免管理员**）。
+1. 前往 [中国移动云盘下载](https://yun.139.com/shareweb/#/w/i/2ygbaWBcT140h)（无提取码），获取 `chinai3-1.0.0-x64.msi`，双击按提示安装（**免管理员**）。
 2. 启动后到「设置 → 模型 / API Key」填好 Key，即可开始对话。
 
-也可以下载免安装包 `chinai3-win-1.0.0.zip`，解压后直接运行。
+也可以下载免安装包 `chinai3-win-1.0.0.zip`，解压后直接运行（同一个云盘分享）。
 
 > 安装包体积较大（>100 MB），超过 GitHub 单文件 100 MB 限制，因此不放进仓库，
-> 统一发布到 **Releases**；页面上的下载按钮指向 `releases/latest`。
+> 统一发布到上面的中国移动云盘分享链接。
 
 ## 本地预览
 
